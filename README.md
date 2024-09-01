@@ -68,5 +68,5 @@
 ## Contact me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-foughali-b690a5310/)
 - **Phone:** [+212673899465]()
-- - **Email:** [![Email](https://img.shields.io/badge/Email-%23007ACC.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilfoughali.dev@gmail.com)
+- **Email:** [![Email](https://img.shields.io/badge/Email-%23007ACC.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilfoughali.dev@gmail.com)
 
