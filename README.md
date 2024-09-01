@@ -4,11 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoughal&show_icons=true&theme=radical) [![nfoughal's 42 stats](https://badge.mediaplus.ma/<theme>/nfoughal)](https://github.com/oakoudad/badge42)
 ## About me
 ### 🎓 **Education**:
-  - Currently studying at 1337, focusing on programming and web development.
-  - Bachelor of Fundamental Studies in Mathematical and computer sciences.
-  - DUT (Technical University Degree) in computer engineering in EST AGADIR.
-  - Bachelor's degree in mathematical science.
-  - 42 School, [32.882163, -6.897713 Mail Central, Mine verte]
+ 
+  - 1337 School, [32.882163, -6.897713 Mail Central, Mine verte]
     Formation in Software Engineering
     Duration: 2 Years (2022 - 2024)
 
@@ -19,6 +16,8 @@
     Autonomy and Collaboration: Worked both independently and collaboratively on complex problems, gaining experience in team-based projects and peer code 
     reviews.
     Adaptive Learning: Emphasized continuous learning, adapting to new technologies, and self-directed education in a dynamic, competitive environment.
+  - DUT (Technical University Degree) in renewable energy and energy efficiency EST IBEN ZOHER.
+  - Bachelor's degree in renewable.
 
 ### 💻 **Skills**:
   - **Languages** :
@@ -55,7 +54,7 @@
   This project draws inspiration from the iconic Wolfenstein 3D game, the pioneering first-person shooter (FPS). It will allow you to delve into ray-casting techniques. Your objective is to create a dynamic view within a maze, navigating through it to find your way.
   ### [FT_IRC](https://github.com/nfoughal/ft_irc)
   This project involves developing your own Internet Relay Chat (IRC) server using C++. You will undertake the task of implementing a fully functional IRC server from scratch, focusing on core functionalities such as handling client connections, managing multiple chat channels, and facilitating real-time communication between users. 
-  ### [INCEPTION](https://github.com/nfoughal/inception_)
+  ### [INCEPTION](https://github.com/nfoughal/inception__)
   This project, a component of the 42 school curriculum, aims to improve your grasp of system administration using Docker.
 ## Contact me
   [![LinkedIn]() 
