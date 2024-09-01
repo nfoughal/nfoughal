@@ -1,8 +1,16 @@
 # Hello, I'm [Nabil Foughali]!
 
 ### Welcome to my GitHub profile! I'm a passionate student at 1337, where I'm diving deep into the world of programming languages and web development. Here's a bit about me and what I'm working on:
-[![nfoughal's 42 stats](https://badge.mediaplus.ma/<theme>/nfoughal)](https://github.com/oakoudad/badge42)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoughal&show_icons=true&theme=radical) 
+## Stats
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/<theme>/nfoughal" alt="nfoughal's 42 stats">
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nfoughal&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
+
 ## About me
 ### 🎓 **Education**:
  
