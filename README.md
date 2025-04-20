@@ -67,6 +67,5 @@
   This project, a component of the 42 school curriculum, aims to improve your grasp of system administration using Docker.
 ## Contact me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-foughali-b690a5310/)
-- **Phone:** [+212673899465]()
 - **Email:** [nabilfoughali.dev@gmail.com]()
 
